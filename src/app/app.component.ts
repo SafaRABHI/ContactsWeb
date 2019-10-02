@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ContactsWeb';
+  /*contact = {nom: "Safa", email: "safa.rabhi55@gmail.com"};*/
 }
